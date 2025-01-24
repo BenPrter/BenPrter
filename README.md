@@ -26,6 +26,9 @@ Motivated to pursue a career in cybersecurity to protect systems and data from d
 <div>
   <a href="https://elearning.securityblue.team/home/certificate/701477598" target="_blank">
   Security Blue Team - Dark Web Operations
+<div>
+  <a href="https://www.credly.com/badges/d24041a5-6ce4-456d-b6e2-d21ea66fa4dc/linked_in_profile](https://app.letsdefend.io/my-rewards/detail/eea906bd-ac4a-4a20-98f2-737282a9a0d4" target="_blank">
+  LetsDefend - SOC Member
 </a>
 
 <!--
